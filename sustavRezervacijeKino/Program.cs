@@ -107,8 +107,8 @@
             static void Main(string[] args)
             {
 
-                KinoDvorana dvorana1 = new KinoDvorana("Avatar 2", 5, 10);
-            KinoDvorana dvorana2 = new KinoDvorana("Avatar", 12, 20);
+             KinoDvorana dvorana1 = new KinoDvorana("Avatar 3", 5, 10);
+           
 
             bool programRadi = true;
                 while (programRadi)
