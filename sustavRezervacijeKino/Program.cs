@@ -110,7 +110,7 @@
              KinoDvorana dvorana1 = new KinoDvorana("Avatar 3", 5, 10);
            
 
-            bool programRadi = true;
+             bool programRadi = true;
                 while (programRadi)
                 {
                     dvorana1.PrikaziDvoranu();
